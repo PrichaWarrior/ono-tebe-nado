@@ -147,7 +147,7 @@
 .cover__overlay {
   max-width: 1440px;
   height: 757px;
-  background-image: url(../images/lotus-flower.jpg);
+  background-image: url(../images/cover.jpg);
   z-index: 0;
 }
 
@@ -259,17 +259,17 @@
 }
 
 .card_type_picture {
-  background-image: url(../images/card3.jpg);
+  background-image: url(../images/card-lot-3.jpg);
   background-size: cover;
 }
 
 .card_type_film {
-  background-image: url(../images/card1.jpg);
+  background-image: url(../images/card-lot-01.jpg);
   background-size: cover;
 }
 
 .card_type_book {
-  background-image: url(../images/card2.jpg);
+  background-image: url(../images/card-lot-2.jpg);
   background-size: cover;
 }
 
