@@ -150,7 +150,7 @@
 
 .cover__overlay {
   max-width: 1440px;
-  height: 757px;
+  min-height: 757px;
   background-image: url(../images/cover.jpg);
   z-index: 0;
 }
@@ -306,6 +306,7 @@
 }
 
 .footer__address {
+  max-width: 300px;
   display: flex;
   flex-direction: column;
   justify-self: start;
